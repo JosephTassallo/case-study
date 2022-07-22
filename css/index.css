@@ -74,7 +74,8 @@ body {
 .main-card{
     display: flex;
     justify-content: center;
-    margin-bottom: 64px;}
+    margin-bottom: 64px;
+    border: pink;}
 
 .image{
     display: flex;
@@ -82,6 +83,7 @@ body {
 
 .main-image-body{
     margin-left: 64px;
+    margin-right: 64px;
     padding: 0px;}
 
 .about-project{
@@ -128,6 +130,7 @@ body {
 
 .card-body{
     margin-left: 64px;
+    margin-right: 64px;
     margin-top: 32px;
     padding: 0px;}
 
@@ -141,7 +144,8 @@ body {
 
 /*conclustion*/
 .conclusion-body{
-    margin-left: 64px;}
+    margin-left: 64px;
+    margin-right: 64px;}
 
 /*back to top*/
 .back-to-top{
